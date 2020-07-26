@@ -1,0 +1,17 @@
+.LineGraph {
+    position: absolute;
+    top: 30em;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.TableStats {
+    position: absolute;
+    top: 75em;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
